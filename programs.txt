@@ -1,0 +1,4 @@
+KWIN,LXQT,ULAUNCHER,PLANK (terminal install)
+DBUS(command run before changing DE) [dbus-launch bash]
+gsettings set org.gnome.desktop.interface gtk-theme Canta (change gtk and theme)
+Komorebi(install from web)
