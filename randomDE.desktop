@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=Random DE
+Comment=some useless desktop environment
+Exec=/bin/randomDE.sh
+Type=Application
